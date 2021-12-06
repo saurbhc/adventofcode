@@ -12,4 +12,5 @@
 | 03 | [Binary Diagonistic](https://adventofcode.com/2021/day/3) | ✓ |
 | 04 | [Giant Squid](https://adventofcode.com/2021/day/4) | ✓ |
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | ✓ |
-| 06 | []() |  |
+| 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | ✓ |
+| 07 | []() |  |

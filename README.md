@@ -15,4 +15,5 @@
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | ✓ |
 | 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | ✓ |
 | 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | ✓ |
-| 08 | []() |  |
+| 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | ✓ |
+| 09 | []() |  |

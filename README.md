@@ -19,4 +19,5 @@
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | ✓ |
 | 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | ✓ |
 | 12 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | ✓ |
-| 11 | []() |  |
+| 13 | []() |  |
+| 14 | []() |  |

@@ -18,6 +18,9 @@
 | 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | ✓ |
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | ✓ |
 | 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | ✓ |
-| 12 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | ✓ |
-| 13 | []() |  |
-| 14 | []() |  |
+| 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | ✓ |
+| 12 | [Passage Pathing](https://adventofcode.com/2021/day/12) | ✓ |
+| 13 | [Transparent Origami](https://adventofcode.com/2021/day/13) | ✓ |
+| 14 | [Extended Polymerization](https://adventofcode.com/2021/day/14) | ✓ |
+| 15 | [Chiton](https://adventofcode.com/2021/day/15) | ✓ |
+| 16 | [Packet Decoder](https://adventofcode.com/2021/day/16) | ✓ |

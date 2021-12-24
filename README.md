@@ -29,3 +29,8 @@
 | 19 | [Beacon Scanner](https://adventofcode.com/2021/day/19) | ✓ |
 | 20 | [Trench Map](https://adventofcode.com/2021/day/20) | ✓ |
 | 21 | [Dirac Dice](https://adventofcode.com/2021/day/21) | ✓ |
+| 22 | [Reactor Reboot](https://adventofcode.com/2021/day/22) | ✓ |
+| 23 | [Amphipod](https://adventofcode.com/2021/day/23) | ✓ |
+| 24 | [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) | ✓ |
+
+[Link to Solutions](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads#wiki_december_2021)

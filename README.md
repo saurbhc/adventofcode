@@ -32,5 +32,6 @@
 | 22 | [Reactor Reboot](https://adventofcode.com/2021/day/22) | ✓ |
 | 23 | [Amphipod](https://adventofcode.com/2021/day/23) | ✓ |
 | 24 | [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) | ✓ |
+| 25 | [Sea Cucumber](https://adventofcode.com/2021/day/25) | ✓ |
 
 [Link to Solutions Thread](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads#wiki_december_2021)
